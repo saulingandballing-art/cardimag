@@ -1,5 +1,2 @@
 runpod
-diffusers==0.27.2
-transformers
-accelerate
-safetensors
+torch
